@@ -47,6 +47,8 @@ MIT
 @clr/angular
 MIT
 
+@clr/core/common
+
 @clr/icons
 MIT
 
