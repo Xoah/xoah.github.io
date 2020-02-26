@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1582661458858,
+  "timestamp": 1582749803453,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.4b1ed1821ea4219a0c5f.js",
-        "/main-es5.4b1ed1821ea4219a0c5f.js",
+        "/main-es2015.dc8eefeba19e72fe0f61.js",
+        "/main-es5.dc8eefeba19e72fe0f61.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.ca64e4516afbb1b890d5.js",
         "/polyfills-es5.7568e63eec85e27a3a7b.js",
@@ -78,6 +78,7 @@
         "/assets/coin/51.jpg",
         "/assets/coin/52.jpg",
         "/assets/coin/53.jpg",
+        "/assets/coin/55.jpg",
         "/assets/coin/6.jpg",
         "/assets/coin/7.jpg",
         "/assets/coin/8.jpg",
@@ -170,6 +171,7 @@
     "/assets/coin/51.jpg": "b301079447dc0b27855f9598e81b8b2cc69b5065",
     "/assets/coin/52.jpg": "936211b874c6bf1157b74deef8ccd988000f063b",
     "/assets/coin/53.jpg": "88fb8407a2ffc24cee771d069a073afc44af38c5",
+    "/assets/coin/55.jpg": "e7627fcdc7d5bb16db208697ea941baaaa4ecaac",
     "/assets/coin/6.jpg": "3df0025857f0e7bad2e4356b354c3fbb9035383c",
     "/assets/coin/7.jpg": "7313118597babe54d39ad8fa0450a9c64139346a",
     "/assets/coin/8.jpg": "8ce7ce2bae76014004b46b12293ccf4293c05f81",
@@ -202,9 +204,9 @@
     "/clerical.4ec5ead482599fa2ae49.woff2": "eb3ab65c7e849919f10b4c54f27cd72df4fa1393",
     "/favicon.ico": "ea185983e4b5e6a155d3c6b2b38d7c7d9e6d6597",
     "/fons_fitxa.c3797adf8bb0267baa38.jpg": "8bc351d573510445d6ec57392da91079996beb43",
-    "/index.html": "874fc56b7ef74c372e6008905ffd338a8053b57b",
-    "/main-es2015.4b1ed1821ea4219a0c5f.js": "b18b9c3d6dfceaa57dad4381c7d3b5e4dbf58fd0",
-    "/main-es5.4b1ed1821ea4219a0c5f.js": "f6c67935fe0ed47330cc112f512fa57fdc11da59",
+    "/index.html": "8cd3efd4218206c1ee8f17d0df255f19def6188c",
+    "/main-es2015.dc8eefeba19e72fe0f61.js": "84e4f57dd4e497a25cc2f3b9c011715e7462c31e",
+    "/main-es5.dc8eefeba19e72fe0f61.js": "d7dfa9516958a85d157d48f9ff3f1fe1cbd2f8d2",
     "/manifest.webmanifest": "ced1093afcfde2d28c5e0e0006d758bbc24ff4e0",
     "/ming.2c4d26e243f6fb32d4c0.woff2": "94e29f030bf36cafe850f62209263daf5e146555",
     "/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
