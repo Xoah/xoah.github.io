@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1583358128291,
+  "timestamp": 1583401841213,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,15 +10,15 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.324392d6e1842587549d.js",
-        "/main-es5.324392d6e1842587549d.js",
+        "/main-es2015.23f35d3b6787c26c5951.js",
+        "/main-es5.23f35d3b6787c26c5951.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.ca64e4516afbb1b890d5.js",
         "/polyfills-es5.7568e63eec85e27a3a7b.js",
         "/runtime-es2015.0811dcefd377500b5b1a.js",
         "/runtime-es5.0811dcefd377500b5b1a.js",
         "/scripts.feb4d45ce37524d7d78c.js",
-        "/styles.fbc90208349426c968d3.css"
+        "/styles.c23d57f9f25bfe1b6cc7.css"
       ],
       "patterns": []
     },
@@ -76,6 +76,7 @@
         "/assets/coin/5.jpg",
         "/assets/coin/50.jpg",
         "/assets/coin/51.jpg",
+        "/assets/coin/51.jpg:Zone.Identifier",
         "/assets/coin/52.jpg",
         "/assets/coin/53.jpg",
         "/assets/coin/54.jpg",
@@ -84,6 +85,7 @@
         "/assets/coin/7.jpg",
         "/assets/coin/8.jpg",
         "/assets/coin/9.jpg",
+        "/assets/coin/_51.jpg",
         "/assets/flags/Flag_of_Imperial_China.png",
         "/assets/flags/Flag_of_Vietnam.png",
         "/assets/flags/Flag_of_the_Japanese_Emperor.png",
@@ -170,7 +172,8 @@
     "/assets/coin/49.jpg": "4a8ebeecc668813f4cf747ee53a3ccd1ba01c561",
     "/assets/coin/5.jpg": "59d51c117d35d8db6fe2cc47d6a801a65d97190d",
     "/assets/coin/50.jpg": "deb7db154227d503c6802ba205a844832ff9813c",
-    "/assets/coin/51.jpg": "b301079447dc0b27855f9598e81b8b2cc69b5065",
+    "/assets/coin/51.jpg": "42b5e3ecbec9c2eb51d6669092bdfeb98579efc7",
+    "/assets/coin/51.jpg:Zone.Identifier": "81dff527365bb0fa05345393bdba21b267fa5c96",
     "/assets/coin/52.jpg": "936211b874c6bf1157b74deef8ccd988000f063b",
     "/assets/coin/53.jpg": "88fb8407a2ffc24cee771d069a073afc44af38c5",
     "/assets/coin/54.jpg": "0f49bc2b550d3131b0eac25b3af61b801d770013",
@@ -179,6 +182,7 @@
     "/assets/coin/7.jpg": "7313118597babe54d39ad8fa0450a9c64139346a",
     "/assets/coin/8.jpg": "8ce7ce2bae76014004b46b12293ccf4293c05f81",
     "/assets/coin/9.jpg": "c8bee723498640c15ae9f06cb9063d4f2aeb1084",
+    "/assets/coin/_51.jpg": "b301079447dc0b27855f9598e81b8b2cc69b5065",
     "/assets/flags/Flag_of_Imperial_China.png": "27b747601ad33093b54abeffb60f55801aa67374",
     "/assets/flags/Flag_of_Vietnam.png": "874191b5ad2fedec3890b04985bda99744da9dfa",
     "/assets/flags/Flag_of_the_Japanese_Emperor.png": "f2744210f8e7aab3791eed4417674f6ed8623a3d",
@@ -208,10 +212,10 @@
     "/clerical.4ec5ead482599fa2ae49.woff2": "eb3ab65c7e849919f10b4c54f27cd72df4fa1393",
     "/favicon.ico": "ea185983e4b5e6a155d3c6b2b38d7c7d9e6d6597",
     "/fons_fitxa.c3797adf8bb0267baa38.jpg": "8bc351d573510445d6ec57392da91079996beb43",
-    "/index.html": "cb57d0fbe6f36122a812ad2db65095514ded5407",
-    "/main-es2015.324392d6e1842587549d.js": "053222a690c0a34c38aa359f126acf102a98f688",
-    "/main-es5.324392d6e1842587549d.js": "e1ac6b7b1eddb2241709901516acaf603928fec3",
-    "/manifest.webmanifest": "ced1093afcfde2d28c5e0e0006d758bbc24ff4e0",
+    "/index.html": "50cb99b4819d640b149252464f0bd903493e7898",
+    "/main-es2015.23f35d3b6787c26c5951.js": "b2aa8c14bb0bb2317ec857bfb4652626f0e2e9e9",
+    "/main-es5.23f35d3b6787c26c5951.js": "d1a0ec007297abf0b828bbe6540e3bb61451dc3d",
+    "/manifest.webmanifest": "567b1c7b04fa02ff324108d65d84c03dbfa68cc0",
     "/ming.2c4d26e243f6fb32d4c0.woff2": "94e29f030bf36cafe850f62209263daf5e146555",
     "/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
     "/polyfills-es5.7568e63eec85e27a3a7b.js": "d5158605c08abe16a3992ccf4604bf8d2a934964",
@@ -221,7 +225,7 @@
     "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/scripts.feb4d45ce37524d7d78c.js": "ba6b2c62a5eee865c4db2355553ab01946bb99e9",
     "/seal.4dd1a5b16e082e48e7ac.woff2": "315609f6b9eefa48cddc93f765f2f5ee52f0106b",
-    "/styles.fbc90208349426c968d3.css": "921aa76a79c7db0b5c85428c9393bc14e1b5ac3d"
+    "/styles.c23d57f9f25bfe1b6cc7.css": "921aa76a79c7db0b5c85428c9393bc14e1b5ac3d"
   },
   "navigationUrls": [
     {
