@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1586153004474,
+  "timestamp": 1586198418231,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,15 +10,15 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.fcb4a3893cf9dd84fa2e.js",
-        "/main-es5.fcb4a3893cf9dd84fa2e.js",
+        "/main-es2015.089761f6d665b24ad0bc.js",
+        "/main-es5.089761f6d665b24ad0bc.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.ca64e4516afbb1b890d5.js",
         "/polyfills-es5.7568e63eec85e27a3a7b.js",
         "/runtime-es2015.0811dcefd377500b5b1a.js",
         "/runtime-es5.0811dcefd377500b5b1a.js",
         "/scripts.2a02e5b46a52dc056444.js",
-        "/styles.c23d57f9f25bfe1b6cc7.css"
+        "/styles.fbc90208349426c968d3.css"
       ],
       "patterns": []
     },
@@ -76,15 +76,12 @@
         "/assets/coin/5.jpg",
         "/assets/coin/50.jpg",
         "/assets/coin/51.jpg",
-        "/assets/coin/51b.jpg",
-        "/assets/coin/51c.jpg",
         "/assets/coin/52.jpg",
         "/assets/coin/53.jpg",
         "/assets/coin/54.jpg",
         "/assets/coin/55.jpg",
         "/assets/coin/56.jpg",
         "/assets/coin/57.jpg",
-        "/assets/coin/57b.jpg",
         "/assets/coin/59.jpg",
         "/assets/coin/6.jpg",
         "/assets/coin/60.jpg",
@@ -95,6 +92,7 @@
         "/assets/coin/71.jpg",
         "/assets/coin/72.jpg",
         "/assets/coin/73.jpg",
+        "/assets/coin/78.jpg",
         "/assets/coin/8.jpg",
         "/assets/coin/9.jpg",
         "/assets/flags/Flag_of_Imperial_China.png",
@@ -184,15 +182,12 @@
     "/assets/coin/5.jpg": "59d51c117d35d8db6fe2cc47d6a801a65d97190d",
     "/assets/coin/50.jpg": "deb7db154227d503c6802ba205a844832ff9813c",
     "/assets/coin/51.jpg": "42b5e3ecbec9c2eb51d6669092bdfeb98579efc7",
-    "/assets/coin/51b.jpg": "42b5e3ecbec9c2eb51d6669092bdfeb98579efc7",
-    "/assets/coin/51c.jpg": "42b5e3ecbec9c2eb51d6669092bdfeb98579efc7",
     "/assets/coin/52.jpg": "936211b874c6bf1157b74deef8ccd988000f063b",
     "/assets/coin/53.jpg": "88fb8407a2ffc24cee771d069a073afc44af38c5",
     "/assets/coin/54.jpg": "0f49bc2b550d3131b0eac25b3af61b801d770013",
     "/assets/coin/55.jpg": "e7627fcdc7d5bb16db208697ea941baaaa4ecaac",
     "/assets/coin/56.jpg": "7477e8101ecce7b85b156acef00d342ea8b84187",
     "/assets/coin/57.jpg": "14634eac1d0b1f2f82c838f40d2363a14936ad70",
-    "/assets/coin/57b.jpg": "14634eac1d0b1f2f82c838f40d2363a14936ad70",
     "/assets/coin/59.jpg": "49fda5637dffb3b510c2dcd4bcddcc5010495b5c",
     "/assets/coin/6.jpg": "3df0025857f0e7bad2e4356b354c3fbb9035383c",
     "/assets/coin/60.jpg": "0b18877a7470dc2807ddf4cb0c086875850d17d3",
@@ -203,6 +198,7 @@
     "/assets/coin/71.jpg": "37353f81b620d0bf0e640c4ec749609b396e12cf",
     "/assets/coin/72.jpg": "51bb8f29772a5a6831cccb2fa4962dcb94d9d7b4",
     "/assets/coin/73.jpg": "1143ea3229b35d6950c36d22b903cfee29593e8f",
+    "/assets/coin/78.jpg": "7f96a267c4cb8ca13862bc3451698d19601f5d06",
     "/assets/coin/8.jpg": "8ce7ce2bae76014004b46b12293ccf4293c05f81",
     "/assets/coin/9.jpg": "c8bee723498640c15ae9f06cb9063d4f2aeb1084",
     "/assets/flags/Flag_of_Imperial_China.png": "27b747601ad33093b54abeffb60f55801aa67374",
@@ -234,10 +230,10 @@
     "/clerical.4ec5ead482599fa2ae49.woff2": "eb3ab65c7e849919f10b4c54f27cd72df4fa1393",
     "/favicon.ico": "ea185983e4b5e6a155d3c6b2b38d7c7d9e6d6597",
     "/fons_fitxa.c3797adf8bb0267baa38.jpg": "8bc351d573510445d6ec57392da91079996beb43",
-    "/index.html": "ffe5601335a029dbe5100cc9b9ded6453bd9999a",
-    "/main-es2015.fcb4a3893cf9dd84fa2e.js": "3cfd11de4c650130d2a28f071cf541bf30090827",
-    "/main-es5.fcb4a3893cf9dd84fa2e.js": "5e2f47fea4bd10256b3144c03932ab4d39fd9f1e",
-    "/manifest.webmanifest": "567b1c7b04fa02ff324108d65d84c03dbfa68cc0",
+    "/index.html": "2031b7db96121c3be85ac27899afa100f99b4918",
+    "/main-es2015.089761f6d665b24ad0bc.js": "6f5261517d8a38a7fe4a8dfa04cc04aebc43376d",
+    "/main-es5.089761f6d665b24ad0bc.js": "d1ed0f0ba46d5c2f38db7bf955459c1872dc41d3",
+    "/manifest.webmanifest": "ced1093afcfde2d28c5e0e0006d758bbc24ff4e0",
     "/ming.2c4d26e243f6fb32d4c0.woff2": "94e29f030bf36cafe850f62209263daf5e146555",
     "/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
     "/polyfills-es5.7568e63eec85e27a3a7b.js": "d5158605c08abe16a3992ccf4604bf8d2a934964",
@@ -247,7 +243,7 @@
     "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/scripts.2a02e5b46a52dc056444.js": "99bf8035f5e5e7f5394d10169701a68874f940c7",
     "/seal.4dd1a5b16e082e48e7ac.woff2": "315609f6b9eefa48cddc93f765f2f5ee52f0106b",
-    "/styles.c23d57f9f25bfe1b6cc7.css": "921aa76a79c7db0b5c85428c9393bc14e1b5ac3d"
+    "/styles.fbc90208349426c968d3.css": "921aa76a79c7db0b5c85428c9393bc14e1b5ac3d"
   },
   "navigationUrls": [
     {
