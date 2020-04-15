@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1586722452399,
+  "timestamp": 1586976002163,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,15 +10,15 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.c244097dea805a13df33.js",
-        "/main-es5.c244097dea805a13df33.js",
+        "/main-es2015.cfbdf6b26e6df1af671a.js",
+        "/main-es5.cfbdf6b26e6df1af671a.js",
         "/manifest.webmanifest",
-        "/polyfills-es2015.ca64e4516afbb1b890d5.js",
-        "/polyfills-es5.7568e63eec85e27a3a7b.js",
-        "/runtime-es2015.0811dcefd377500b5b1a.js",
-        "/runtime-es5.0811dcefd377500b5b1a.js",
-        "/scripts.2a02e5b46a52dc056444.js",
-        "/styles.fbc90208349426c968d3.css"
+        "/polyfills-es2015.f2c5ab749249a66bdf26.js",
+        "/polyfills-es5.95ae6723b0e9cd34a6bf.js",
+        "/runtime-es2015.1eba213af0b233498d9d.js",
+        "/runtime-es5.1eba213af0b233498d9d.js",
+        "/scripts.b4bf80f04c4f882f9836.js",
+        "/styles.f2bdf746d6ed4575f483.css"
       ],
       "patterns": []
     },
@@ -121,12 +121,12 @@
         "/assets/maps/10_QingDynasty.jpg",
         "/assets/maps/11-Coins_1900.jpg",
         "/assets/seal.png",
-        "/clerical.4ec5ead482599fa2ae49.woff2",
-        "/fons_fitxa.c3797adf8bb0267baa38.jpg",
-        "/ming.2c4d26e243f6fb32d4c0.woff2",
-        "/regular.957d535d9e88e7230833.woff2",
-        "/running.2780fc0918683c1c0960.woff2",
-        "/seal.4dd1a5b16e082e48e7ac.woff2"
+        "/clerical.b8a497cf3fb8bd8a737e.woff2",
+        "/fons_fitxa.f25428c7e3da81eae6be.jpg",
+        "/ming.ead7b1ae62c61c7da37f.woff2",
+        "/regular.f480c83c84bf4c0f973d.woff2",
+        "/running.76d8e1b374d34b384df6.woff2",
+        "/seal.bebecb9f123e537d8460.woff2"
       ],
       "patterns": []
     }
@@ -227,23 +227,23 @@
     "/assets/maps/10_QingDynasty.jpg": "907308d587a09c8262d1a3b82c1e83a3a381fc2c",
     "/assets/maps/11-Coins_1900.jpg": "58812da3df3cdbeb73fb86e783a638649a8d0aaa",
     "/assets/seal.png": "8fd8551e7b84e30a834db2d73a9fb50b1233a01d",
-    "/clerical.4ec5ead482599fa2ae49.woff2": "eb3ab65c7e849919f10b4c54f27cd72df4fa1393",
+    "/clerical.b8a497cf3fb8bd8a737e.woff2": "eb3ab65c7e849919f10b4c54f27cd72df4fa1393",
     "/favicon.ico": "ea185983e4b5e6a155d3c6b2b38d7c7d9e6d6597",
-    "/fons_fitxa.c3797adf8bb0267baa38.jpg": "8bc351d573510445d6ec57392da91079996beb43",
-    "/index.html": "5f60e38037c65276de9d7950ada7bc600327c805",
-    "/main-es2015.c244097dea805a13df33.js": "542f913d14c6a4415747fc064e394f96c5812e90",
-    "/main-es5.c244097dea805a13df33.js": "75a3645e0a3928a96073641635b65577d7b20895",
-    "/manifest.webmanifest": "ced1093afcfde2d28c5e0e0006d758bbc24ff4e0",
-    "/ming.2c4d26e243f6fb32d4c0.woff2": "94e29f030bf36cafe850f62209263daf5e146555",
-    "/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
-    "/polyfills-es5.7568e63eec85e27a3a7b.js": "d5158605c08abe16a3992ccf4604bf8d2a934964",
-    "/regular.957d535d9e88e7230833.woff2": "6feddc15827cd96265ae0ff02a0648e5828650b6",
-    "/running.2780fc0918683c1c0960.woff2": "c34d96aa6c34c65061ebca1de14ac7192ebcfcc6",
-    "/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/scripts.2a02e5b46a52dc056444.js": "99bf8035f5e5e7f5394d10169701a68874f940c7",
-    "/seal.4dd1a5b16e082e48e7ac.woff2": "315609f6b9eefa48cddc93f765f2f5ee52f0106b",
-    "/styles.fbc90208349426c968d3.css": "921aa76a79c7db0b5c85428c9393bc14e1b5ac3d"
+    "/fons_fitxa.f25428c7e3da81eae6be.jpg": "8bc351d573510445d6ec57392da91079996beb43",
+    "/index.html": "63ff45cf3ba979c0c34835253b3cb8f54dc3a676",
+    "/main-es2015.cfbdf6b26e6df1af671a.js": "905fdfb550e0b001670b07242a3c1b7367691b37",
+    "/main-es5.cfbdf6b26e6df1af671a.js": "65bfe23a7394148f989ba0209e93a23266b2facf",
+    "/manifest.webmanifest": "567b1c7b04fa02ff324108d65d84c03dbfa68cc0",
+    "/ming.ead7b1ae62c61c7da37f.woff2": "94e29f030bf36cafe850f62209263daf5e146555",
+    "/polyfills-es2015.f2c5ab749249a66bdf26.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/polyfills-es5.95ae6723b0e9cd34a6bf.js": "e275bfda787ab64971380ef8042cecd2b3ef309a",
+    "/regular.f480c83c84bf4c0f973d.woff2": "6feddc15827cd96265ae0ff02a0648e5828650b6",
+    "/running.76d8e1b374d34b384df6.woff2": "c34d96aa6c34c65061ebca1de14ac7192ebcfcc6",
+    "/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.b4bf80f04c4f882f9836.js": "002532426adb8785f586a788ee33c6975339a76e",
+    "/seal.bebecb9f123e537d8460.woff2": "315609f6b9eefa48cddc93f765f2f5ee52f0106b",
+    "/styles.f2bdf746d6ed4575f483.css": "9af961dea979586e5501a74fdfec0ebebdc78e7b"
   },
   "navigationUrls": [
     {
