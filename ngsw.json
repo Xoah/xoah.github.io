@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1586976002163,
+  "timestamp": 1587320805270,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.cfbdf6b26e6df1af671a.js",
-        "/main-es5.cfbdf6b26e6df1af671a.js",
+        "/main-es2015.b5b509954ba82c35a5be.js",
+        "/main-es5.b5b509954ba82c35a5be.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.f2c5ab749249a66bdf26.js",
         "/polyfills-es5.95ae6723b0e9cd34a6bf.js",
@@ -94,6 +94,7 @@
         "/assets/coin/73.jpg",
         "/assets/coin/78.jpg",
         "/assets/coin/8.jpg",
+        "/assets/coin/82.jpg",
         "/assets/coin/9.jpg",
         "/assets/flags/Flag_of_Imperial_China.png",
         "/assets/flags/Flag_of_Vietnam.png",
@@ -200,6 +201,7 @@
     "/assets/coin/73.jpg": "1143ea3229b35d6950c36d22b903cfee29593e8f",
     "/assets/coin/78.jpg": "7f96a267c4cb8ca13862bc3451698d19601f5d06",
     "/assets/coin/8.jpg": "8ce7ce2bae76014004b46b12293ccf4293c05f81",
+    "/assets/coin/82.jpg": "62f96f74630b0fdb85f673086c56bce282979617",
     "/assets/coin/9.jpg": "c8bee723498640c15ae9f06cb9063d4f2aeb1084",
     "/assets/flags/Flag_of_Imperial_China.png": "27b747601ad33093b54abeffb60f55801aa67374",
     "/assets/flags/Flag_of_Vietnam.png": "874191b5ad2fedec3890b04985bda99744da9dfa",
@@ -230,9 +232,9 @@
     "/clerical.b8a497cf3fb8bd8a737e.woff2": "eb3ab65c7e849919f10b4c54f27cd72df4fa1393",
     "/favicon.ico": "ea185983e4b5e6a155d3c6b2b38d7c7d9e6d6597",
     "/fons_fitxa.f25428c7e3da81eae6be.jpg": "8bc351d573510445d6ec57392da91079996beb43",
-    "/index.html": "63ff45cf3ba979c0c34835253b3cb8f54dc3a676",
-    "/main-es2015.cfbdf6b26e6df1af671a.js": "905fdfb550e0b001670b07242a3c1b7367691b37",
-    "/main-es5.cfbdf6b26e6df1af671a.js": "65bfe23a7394148f989ba0209e93a23266b2facf",
+    "/index.html": "f5471d9cdd952177dcea7c3bfd074aab6468c9ee",
+    "/main-es2015.b5b509954ba82c35a5be.js": "b7593f0a581a49c3fd47910c56100b54c6072d0c",
+    "/main-es5.b5b509954ba82c35a5be.js": "449a206efbf73faeca8227e125be07dcd317e579",
     "/manifest.webmanifest": "567b1c7b04fa02ff324108d65d84c03dbfa68cc0",
     "/ming.ead7b1ae62c61c7da37f.woff2": "94e29f030bf36cafe850f62209263daf5e146555",
     "/polyfills-es2015.f2c5ab749249a66bdf26.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
