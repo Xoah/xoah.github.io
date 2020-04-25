@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1587320805270,
+  "timestamp": 1587819632236,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,15 +10,15 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.b5b509954ba82c35a5be.js",
-        "/main-es5.b5b509954ba82c35a5be.js",
+        "/main-es2015.19f1cc041a1c815bd308.js",
+        "/main-es5.19f1cc041a1c815bd308.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.f2c5ab749249a66bdf26.js",
         "/polyfills-es5.95ae6723b0e9cd34a6bf.js",
         "/runtime-es2015.1eba213af0b233498d9d.js",
         "/runtime-es5.1eba213af0b233498d9d.js",
-        "/scripts.b4bf80f04c4f882f9836.js",
-        "/styles.f2bdf746d6ed4575f483.css"
+        "/scripts.6e550852d9d22c7cd857.js",
+        "/styles.d23e4733576848074539.css"
       ],
       "patterns": []
     },
@@ -88,6 +88,7 @@
         "/assets/coin/61.jpg",
         "/assets/coin/62.jpg",
         "/assets/coin/63.jpg",
+        "/assets/coin/69.jpg",
         "/assets/coin/7.jpg",
         "/assets/coin/71.jpg",
         "/assets/coin/72.jpg",
@@ -195,6 +196,7 @@
     "/assets/coin/61.jpg": "36b8c8467039abd84f1ce09ff8ff133c0edd7af9",
     "/assets/coin/62.jpg": "47ca7991e7536d5b4bcb5bf669371a5adc3ea9ad",
     "/assets/coin/63.jpg": "0ec39b9a60874e17a6b7083028973460b63d38e4",
+    "/assets/coin/69.jpg": "a74c58c76e404842682c7e412573c8f2e6ef3fab",
     "/assets/coin/7.jpg": "7313118597babe54d39ad8fa0450a9c64139346a",
     "/assets/coin/71.jpg": "37353f81b620d0bf0e640c4ec749609b396e12cf",
     "/assets/coin/72.jpg": "51bb8f29772a5a6831cccb2fa4962dcb94d9d7b4",
@@ -232,9 +234,9 @@
     "/clerical.b8a497cf3fb8bd8a737e.woff2": "eb3ab65c7e849919f10b4c54f27cd72df4fa1393",
     "/favicon.ico": "ea185983e4b5e6a155d3c6b2b38d7c7d9e6d6597",
     "/fons_fitxa.f25428c7e3da81eae6be.jpg": "8bc351d573510445d6ec57392da91079996beb43",
-    "/index.html": "f5471d9cdd952177dcea7c3bfd074aab6468c9ee",
-    "/main-es2015.b5b509954ba82c35a5be.js": "b7593f0a581a49c3fd47910c56100b54c6072d0c",
-    "/main-es5.b5b509954ba82c35a5be.js": "449a206efbf73faeca8227e125be07dcd317e579",
+    "/index.html": "4d6cbba6298ccb087d56fdfba903625dfac4cd6d",
+    "/main-es2015.19f1cc041a1c815bd308.js": "2a784ed32662bbeb0491e1ec935c62cdf9d7db47",
+    "/main-es5.19f1cc041a1c815bd308.js": "6fa54d48fba3433ec7ce83ac7529f6ae5c868339",
     "/manifest.webmanifest": "567b1c7b04fa02ff324108d65d84c03dbfa68cc0",
     "/ming.ead7b1ae62c61c7da37f.woff2": "94e29f030bf36cafe850f62209263daf5e146555",
     "/polyfills-es2015.f2c5ab749249a66bdf26.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
@@ -243,9 +245,9 @@
     "/running.76d8e1b374d34b384df6.woff2": "c34d96aa6c34c65061ebca1de14ac7192ebcfcc6",
     "/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/scripts.b4bf80f04c4f882f9836.js": "002532426adb8785f586a788ee33c6975339a76e",
+    "/scripts.6e550852d9d22c7cd857.js": "8d9bf7de7d54a6727e56cf2d10b885ff4bc453ee",
     "/seal.bebecb9f123e537d8460.woff2": "315609f6b9eefa48cddc93f765f2f5ee52f0106b",
-    "/styles.f2bdf746d6ed4575f483.css": "9af961dea979586e5501a74fdfec0ebebdc78e7b"
+    "/styles.d23e4733576848074539.css": "e4e3a243413a75255aa8d79bd8fa3faae0fe3981"
   },
   "navigationUrls": [
     {
