@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1588328939944,
+  "timestamp": 1588329759610,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -18,7 +18,7 @@
         "/runtime-es2015.1eba213af0b233498d9d.js",
         "/runtime-es5.1eba213af0b233498d9d.js",
         "/scripts.6e550852d9d22c7cd857.js",
-        "/styles.6a3bdc4fa520c95f2339.css"
+        "/styles.15db00f495e93d48051a.css"
       ],
       "patterns": []
     },
@@ -27,6 +27,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/ZHAO-Regular.472791809551fbb5f298.woff",
         "/assets/Seal_of_Qing_dynasty.png",
         "/assets/Seal_of_Qing_dynasty_w.png",
         "/assets/coin/1.jpg",
@@ -138,6 +139,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/ZHAO-Regular.472791809551fbb5f298.woff": "6edbd03446869af8a98bd04d913dd668b7d364c3",
     "/assets/Seal_of_Qing_dynasty.png": "5b4b9022e7adc42eaf606e6bda32722bfa326884",
     "/assets/Seal_of_Qing_dynasty_w.png": "adf176b4e4451363401a3a43a8f04b357375184a",
     "/assets/coin/1.jpg": "5ecbe96c077864b8dfb1682d85374b6ff1333b1c",
@@ -238,7 +240,7 @@
     "/favicon.ico": "ea185983e4b5e6a155d3c6b2b38d7c7d9e6d6597",
     "/fons_fitxa.f25428c7e3da81eae6be.jpg": "8bc351d573510445d6ec57392da91079996beb43",
     "/hand.b7b772d62a4aab0002db.woff2": "68f3443a9a6d2db563317b6c181600633f272141",
-    "/index.html": "3c433dd00236697d596a306cc52163e1d75d61ee",
+    "/index.html": "cd5a107cbd1847e670afb7041e3d959ffb97f405",
     "/main-es2015.b99e2bdfe564dfc7cd8d.js": "890200effd59eaa832c2fc2fe6db3ee7b77288c2",
     "/main-es5.b99e2bdfe564dfc7cd8d.js": "88d419e6a878e21d4f4d6ca68569b4633b1ecc31",
     "/manifest.webmanifest": "567b1c7b04fa02ff324108d65d84c03dbfa68cc0",
@@ -252,7 +254,7 @@
     "/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/scripts.6e550852d9d22c7cd857.js": "8d9bf7de7d54a6727e56cf2d10b885ff4bc453ee",
     "/seal.bebecb9f123e537d8460.woff2": "315609f6b9eefa48cddc93f765f2f5ee52f0106b",
-    "/styles.6a3bdc4fa520c95f2339.css": "c72047b82fd7ad36516d9aed10146f1f45e5446d",
+    "/styles.15db00f495e93d48051a.css": "73b294038bc17523515fda84d7c97725871efd14",
     "/tang.2be382d109206d3d1433.woff": "55235266bcd99c6f2fe68921dee66300aaeb59ee"
   },
   "navigationUrls": [
